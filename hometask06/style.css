@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+#task06__str_enter_field {
+  width: 100px;
+  display: block;
+  margin: 15px;
+}
+
+#task06__result_btn {
+  width: 100px;
+  margin: 0 15px;
+}
+
+#task06__reset_btn {
+  width: 100px;
+  margin: 0 15px;
+}
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
